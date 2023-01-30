@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Menus {
+class MenusExample {
     static Scanner userinput = new Scanner(System.in);
 
 	public static void main(String[] args) throws InterruptedException {
